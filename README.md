@@ -10,10 +10,10 @@
 <h4 align="center">A minimal Dumper and String Searcher app which was born because of Minecraft and this readme template was taken from <a href="https://github.com/amitmerchant1990/electron-markdownify/blob/master/README.md" target="_blank">here</a>.</h4>
 
 <p align="center">
-  <a href="#features">Key Features</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#Features">Features</a> •
+  <a href="#Download">Download</a> •
+  <a href="#Credits">Credits</a> •
+  <a href="#License">License</a>
 </p>
 
 ## Features
