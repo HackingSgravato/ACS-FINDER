@@ -55,6 +55,6 @@ MIT
 ---
 
 > GitHub [@HackingSgravato](https://github.com/HackingSgravato) &nbsp;&middot;&nbsp;
-> [Telegram](https://t.me/VisualStudio2022) 
+> [Telegram](https://t.me/VisualStudio2022) &nbsp;&middot;&nbsp;
 > [Discord](https://discord.gg/nJx6tN5rS5)
 
