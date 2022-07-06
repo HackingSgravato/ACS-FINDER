@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://github.com/HackingSgravato/ACS-FINDER/blob/0ccf8986a5d004e07686cb453911db22a6cb672b/photo_2021-04-06_15-46-25.jpg" alt="Acs Finder" width="200"></a>
+  <img src="https://github.com/HackingSgravato/ACS-FINDER/blob/0ccf8986a5d004e07686cb453911db22a6cb672b/photo_2021-04-06_15-46-25.jpg" alt="Acs Finder" width="200">
   <br>
   Acs Finder
   <br>
