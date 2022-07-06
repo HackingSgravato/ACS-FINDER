@@ -18,7 +18,7 @@
 </p>
 
 ## Console
-* [here](https://github.com/HackingSgravato/Acs-Finder-Console)
+* Coming soon... 
 
 ## Features
 
